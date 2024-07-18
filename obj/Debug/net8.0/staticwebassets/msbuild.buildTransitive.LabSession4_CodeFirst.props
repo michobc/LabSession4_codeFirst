@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/LabSession4_CodeFirst.props" />
+</Project>
